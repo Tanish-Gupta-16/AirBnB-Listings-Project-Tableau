@@ -70,6 +70,6 @@ Using Tableau, multiple datasets were combined and transformed to create an inte
 
 ├── Dashboard_Image.png              # Dashboard preview
 
-├── Dashboard_Link.txt               # Link to interactive Tableau dashboard
+├── Dashboard_Link.txt               # Link to full Tableau projct
 
 └── README.md                        # Project documentation
